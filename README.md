@@ -49,7 +49,7 @@ De certificaten zijn in de map [Coursera](https://github.com/stevenwetstein/Smar
 * [Week 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%201.png)
 * [Week 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%202.png)
 * [Week 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%203.png)
-* [Week 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%204.png)
+* [Week 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%206.png)
 
 ## 1.3 Spark tutorials <a name="Spark_tutorials"></a>
 
