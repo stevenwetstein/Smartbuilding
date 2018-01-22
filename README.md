@@ -4,27 +4,34 @@ om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
 
 ## Inhoudsopgave
 1. [Certificaten Datacamp](#Certificaten_Datacamp)
-2. Certificaten coursera
-3. Spark tutorials
-4. 
+2. [Certificaten Coursera](#Certificaten_Coursera)
+3. [Spark tutorials](#Spark_tutorials)
+4. [Exploratory data analysis](#Exploratory_Data_Analysis)
+5. [Vrijdag Presentaties](#Vrijdag_presentaties)
+6. [Presentatie symposium](#Presentatie_Symposium)
+7. [Gefilmd over project](#Gefilmd_over_project)
 
 ## 1. Certificaten Datacamp <a name="Certificaten_Datacamp"></a>
 Tijdens deze minor heb ik de verschillende onderdelen van de datacamp opdrachten doorlopen. 
 Naast alle opgegeven opdrachten heb ik nog enkele extra hoofdstukken en onderdelen gedaan.
 De certificaten zijn te vinden in de bovenstaande map genaamd 'datacamp'.
 
-# Certificaten Coursera
+# 2. Certificaten Coursera <a name="Certificaten_Coursera"></a>
 De machine learning course heb ik deels doorlopen. Ik heb week 1, 2, 3 en 6 doorlopen zoals was aangegeven als de verplichte opdrachten.
 Ik heb bij coursera nog geen extra opdrachten uitgevoerd. Screenshots van mijn voortgang zijn te vinden in de map 'coursera'.
 
-# Vrijdag presentaties
+## 3. Spark tutorials <a name="Spark_tutorials"></a>
+
+## 4. Exploratory data analysis <a name="Exploratory_data_analysis"></a>
+
+## 5. Vrijdag presentaties <a name="Vrijdag_presentaties"></a>
 Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map 'Presentaties vrijdag'
 
-# Presentatie symposium
+## 6. Presentatie symposium <a name="Presentatie_symposium"></a>
 Gedurende dit blok hebben wij toegewerkt naar het smartbuilding symposium. Op dit evenement heb ik samen met Bob Tuynman en Jan Dirk Schagen gepresenteerd.
 Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding.
 
-# Gefilmd over project
+## 7. Gefilmd over project <a name="Gefilmd_over_project"></a>
 Tijdens ons project is er een film gemaakt voor de RAAK 2020 awards. Als projectteam waren wij onderdeel van het lectoraat waar deze prijs uiteindelijk naar ging.
 Samen met Bob Tuynman speel ik in de promotiefilm voor de RAAK awards. Het filmpje is hier te zien:
 https://www.youtube.com/watch?v=mgY_D_nsCDw&t=
