@@ -2,7 +2,13 @@
 Welkom op mijn portfolio. Hier is een overzicht van mijn werkzaamheden de afgelopen 5 maanden. Dit onderdeel bevat de gevolgde courses 
 om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
 
-# Certificaten Datacamp
+## Inhoudsopgave
+1. [Certificaten Datacamp] (#Certificaten Datacamp)
+2. Certificaten coursera
+3. Spark tutorials
+4. 
+
+# Certificaten Datacamp <a name="Certificaten Datacamp"></a>
 Tijdens deze minor heb ik de verschillende onderdelen van de datacamp opdrachten doorlopen. 
 Naast alle opgegeven opdrachten heb ik nog enkele extra hoofdstukken en onderdelen gedaan.
 De certificaten zijn te vinden in de bovenstaande map genaamd 'datacamp'.
