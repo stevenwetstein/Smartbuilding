@@ -29,10 +29,10 @@ Tijdens ons project is er een film gemaakt voor de RAAK 2020 awards. Als project
 Samen met Bob Tuynman speel ik in de promotiefilm voor de RAAK awards. Het filmpje is hier te zien:
 https://www.youtube.com/watch?v=mgY_D_nsCDw&t=
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=mgY_D_nsCDw&t=
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mgY_D_nsCDw&t=
 " target="_blank"><img src="http://img.youtube.com/vi/v=mgY_D_nsCDw&t=/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-# Eerste fase project
+alt="RAAK award 2020 promotiefilm" width="240" height="180" border="10" /></a>
+# Eerste  project
 
 # Tweede fase project
 
