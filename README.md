@@ -3,20 +3,26 @@ Welkom op mijn portfolio. Hier is een overzicht van mijn werkzaamheden de afgelo
 om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
 
 ## Inhoudsopgave
+Deze minor is op te splitsen in drie onderdelen. De eerste is het theoretisch verbeteren van de vaardigheden door middel van courses. De tweede is het presenteren en vertegenwoordigen van het projectteam. Het derde onderdeel is het werken aan een project waarbij je de geleerde vaardigheden inzet. De hoofdstukken 1 t/m 5 van dit portfolio vertegenwoordigen de verschillende courses. Hoofdstukken 6 t/m 8 betreffen het vertegenwoordigen van het projectteam. Hoofdstukken 9 t/m 13 geef ik inzicht in mijn bijdrage bij het project.
 1. [Certificaten Datacamp](#Certificaten_Datacamp)
 2. [Certificaten Coursera](#Certificaten_Coursera)
 3. [Spark tutorials](#Spark_tutorials)
 4. [Exploratory data analysis](#Exploratory_Data_Analysis)
-5. [Vrijdag Presentaties](#Vrijdag_presentaties)
-6. [Presentatie symposium](#Presentatie_Symposium)
-7. [Gefilmd over project](#Gefilmd_over_project)
+5. [Calling bullshit](#Calling_bullshit)
+6. [Vrijdag Presentaties](#Vrijdag_presentaties)
+7. [Presentatie symposium](#Presentatie_Symposium)
+8. [Gefilmd over project](#Gefilmd_over_project)
+9. [Verkenningsfase project](#Verkenningsfase_project)
+10. [Analysefase project](#Analysefase_project)
+11. [Verbredingsopdracht project](#Verbredingsopdracht_project)
+12. [Afrondingsfase project](#Afrondingsfase_project)
 
 ## 1. Certificaten Datacamp <a name="Certificaten_Datacamp"></a>
 Tijdens deze minor heb ik de verschillende onderdelen van de datacamp opdrachten doorlopen. 
 Naast alle opgegeven opdrachten heb ik nog enkele extra hoofdstukken en onderdelen gedaan.
 De certificaten zijn te vinden in de bovenstaande map genaamd 'datacamp'.
 
-# 2. Certificaten Coursera <a name="Certificaten_Coursera"></a>
+## 2. Certificaten Coursera <a name="Certificaten_Coursera"></a>
 De machine learning course heb ik deels doorlopen. Ik heb week 1, 2, 3 en 6 doorlopen zoals was aangegeven als de verplichte opdrachten.
 Ik heb bij coursera nog geen extra opdrachten uitgevoerd. Screenshots van mijn voortgang zijn te vinden in de map 'coursera'.
 
