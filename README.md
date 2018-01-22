@@ -30,7 +30,7 @@ Samen met Bob Tuynman speel ik in de promotiefilm voor de RAAK awards. Het filmp
 https://www.youtube.com/watch?v=mgY_D_nsCDw&t=
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mgY_D_nsCDw&t=
-" target="_blank"><img src="http://img.youtube.com/vi/v=mgY_D_nsCDw&t=/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/v=mgY_D_nsCDw/0.jpg" 
 alt="RAAK award 2020 promotiefilm" width="240" height="180" border="10" /></a>
 # Eerste  project
 
