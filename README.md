@@ -1,6 +1,5 @@
 # Portfolio Steven Wetstein
-Welkom op mijn portfolio. Hier is een overzicht van mijn werkzaamheden de afgelopen 5 maanden. Dit onderdeel bevat de gevolgde courses 
-om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
+Welkom op mijn portfolio. Hier wordt mijn leerweg van de afgelopen maanden weergegeven. Hierbij ben ik aan de slag gegaan met data science. Ik heb vaardigheden op dit vlak verkregen en toegepast op de praktijk. De praktijkopdracht had betrekking tot het smartbuilding van de Haagse hogeschool in Delft. Het doel van dit portfolio is om mijn persoonlijke bijdrage te kunnen inzien.
 
 ## Inhoudsopgave
 Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbreden door middel van courses. De tweede is het presenteren en vertegenwoordigen van het projectteam. Het derde onderdeel is het werken aan een project waarbij je de geleerde vaardigheden inzet. 
@@ -26,11 +25,11 @@ Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbred
 ---
 
 # 1. Kennis verbreden <a name="Kennis_verbreden"></a>
+Bij het onderdeel kennis verbreding vallen alle opdrachten uit het study schedule. 
 
 ## 1.1 Certificaten Datacamp <a name="Certificaten_Datacamp"></a>
-Tijdens deze minor heb ik de verschillende onderdelen van de datacamp opdrachten doorlopen. 
-Naast alle opgegeven opdrachten heb ik nog enkele extra hoofdstukken en onderdelen gedaan.
-De certificaten zijn te vinden in de bovenstaande map genaamd 'datacamp'.
+Tijdens deze minor heb ik de verschillende onderdelen van datacamp doorlopen. 
+Hiernaast heb ik nog enkele extra opdrachten en hoofdstukken uitgevoerd.
 
 ## 1.2 Certificaten Coursera <a name="Certificaten_Coursera"></a>
 De machine learning course heb ik deels doorlopen. Ik heb week 1, 2, 3 en 6 doorlopen zoals was aangegeven als de verplichte opdrachten.
