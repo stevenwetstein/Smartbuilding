@@ -30,7 +30,7 @@ Bij het onderdeel kennis verbreding vallen alle opdrachten uit het study schedul
 ## 1.1 Certificaten Datacamp <a name="Certificaten_Datacamp"></a>
 Tijdens deze minor heb ik de verschillende onderdelen van datacamp doorlopen. 
 Hiernaast heb ik nog enkele extra opdrachten en hoofdstukken uitgevoerd.
-
+De certificaten zijn in de map [Certificaten Datacamp](https://github.com/stevenwetstein/Smartbuilding/tree/master/Certificaten%20datacamp) te vinden.
 ## 1.2 Certificaten Coursera <a name="Certificaten_Coursera"></a>
 De machine learning course heb ik deels doorlopen. Ik heb week 1, 2, 3 en 6 doorlopen zoals was aangegeven als de verplichte opdrachten.
 Ik heb bij coursera nog geen extra opdrachten uitgevoerd. Screenshots van mijn voortgang zijn te vinden in de map 'coursera'.
