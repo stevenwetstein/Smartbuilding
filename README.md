@@ -31,6 +31,16 @@ Bij het onderdeel kennis verbreding vallen alle opdrachten uit het study schedul
 Tijdens deze minor heb ik de verschillende onderdelen van datacamp doorlopen. 
 Hiernaast heb ik nog enkele extra opdrachten en hoofdstukken uitgevoerd.
 De certificaten zijn in de map [Certificaten Datacamp](https://github.com/stevenwetstein/Smartbuilding/tree/master/Certificaten%20datacamp) te vinden.
+
+* [Intro to python for data science](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Intro%20to%20python%20for%20data%20science.pdf)
+* [Intermediate python for data science](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/intermediate%20python.pdf)
+* [Cleaning data in python](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Cleaning%20data%20in%20python.pdf)
+* [Importing data in python](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Importing%20data%20in%20python.pdf)
+* [Introduction to data visualization](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Introduction%20to%20data%20visualization.pdf)
+* [Pandas foundations](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/pandas%20foundation.pdf)
+* [Statistical thinking in python](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/statistical%20thining%20in%20python.pdf)
+* [Supervised learning with scikit-learn](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Supervised%20learning%20with%20scikit-learn.pdf)
+
 ## 1.2 Certificaten Coursera <a name="Certificaten_Coursera"></a>
 De machine learning course heb ik deels doorlopen. Ik heb week 1, 2, 3 en 6 doorlopen zoals was aangegeven als de verplichte opdrachten.
 Ik heb bij coursera nog geen extra opdrachten uitgevoerd. Screenshots van mijn voortgang zijn te vinden in de map 'coursera'.
