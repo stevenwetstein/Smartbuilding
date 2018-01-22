@@ -10,12 +10,12 @@ Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbred
 1.3 [Spark tutorials](#Spark_tutorials)<br >
 1.4 [Exploratory data analysis](#Exploratory_Data_Analysis)<br >
 1.5 [Calling bullshit](#Calling_bullshit)<br >
-<br >
+
 2. [Vertegenwoordigen project](#Vertegenwoordigen_project)<br >
 2.1 [Vrijdag Presentaties](#Vrijdag_presentaties)<br >
 2.2 [Presentatie symposium](#Presentatie_Symposium)<br >
 2.3 [Gefilmd over project](#Gefilmd_over_project)<br >
-<br >
+
 3. [Project](#project)<br >
 3.1 [Verkenningsfase project](#Verkenningsfase_project)<br >
 3.2 [Analysefase project](#Analysefase_project)<br >
