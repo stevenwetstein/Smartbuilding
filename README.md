@@ -3,7 +3,8 @@ Welkom op mijn portfolio. Hier is een overzicht van mijn werkzaamheden de afgelo
 om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
 
 ## Inhoudsopgave
-Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbreden door middel van courses. De tweede is het presenteren en vertegenwoordigen van het projectteam. Het derde onderdeel is het werken aan een project waarbij je de geleerde vaardigheden inzet. De hoofdstukken 1 t/m 5 van dit portfolio vertegenwoordigen de verschillende courses. Hoofdstukken 6 t/m 8 betreffen het vertegenwoordigen van het projectteam. Hoofdstukken 9 t/m 13 geef ik inzicht in mijn bijdrage bij het project.
+Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbreden door middel van courses. De tweede is het presenteren en vertegenwoordigen van het projectteam. Het derde onderdeel is het werken aan een project waarbij je de geleerde vaardigheden inzet. 
+
 ### 1. [Kennis verbreden](#Kennis_verbreden)
 1.1 [Certificaten Datacamp](#Certificaten_Datacamp)<br >
 1.2 [Certificaten Coursera](#Certificaten_Coursera)<br >
