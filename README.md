@@ -4,19 +4,19 @@ om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
 
 ## Inhoudsopgave
 Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbreden door middel van courses. De tweede is het presenteren en vertegenwoordigen van het projectteam. Het derde onderdeel is het werken aan een project waarbij je de geleerde vaardigheden inzet. De hoofdstukken 1 t/m 5 van dit portfolio vertegenwoordigen de verschillende courses. Hoofdstukken 6 t/m 8 betreffen het vertegenwoordigen van het projectteam. Hoofdstukken 9 t/m 13 geef ik inzicht in mijn bijdrage bij het project.
-### 1. [Kennis verbreden](#Kennis_verbreden)<br >
+### 1. [Kennis verbreden](#Kennis_verbreden)
 1.1 [Certificaten Datacamp](#Certificaten_Datacamp)<br >
 1.2 [Certificaten Coursera](#Certificaten_Coursera)<br >
 1.3 [Spark tutorials](#Spark_tutorials)<br >
 1.4 [Exploratory data analysis](#Exploratory_Data_Analysis)<br >
 1.5 [Calling bullshit](#Calling_bullshit)<br >
 
-### 2. [Vertegenwoordigen project](#Vertegenwoordigen_project)<br >
+### 2. [Vertegenwoordigen project](#Vertegenwoordigen_project)
 2.1 [Vrijdag Presentaties](#Vrijdag_presentaties)<br >
 2.2 [Presentatie symposium](#Presentatie_Symposium)<br >
 2.3 [Gefilmd over project](#Gefilmd_over_project)<br >
 
-### 3. [Project](#project)<br >
+### 3. [Project](#project)
 3.1 [Verkenningsfase project](#Verkenningsfase_project)<br >
 3.2 [Analysefase project](#Analysefase_project)<br >
 3.3 [Verbredingsopdracht project](#Verbredingsopdracht_project)<br >
