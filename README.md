@@ -3,7 +3,7 @@ Welkom op mijn portfolio. Hier is een overzicht van mijn werkzaamheden de afgelo
 om mijn kennis te verbreden en mijn bijdrage aan het smartbuilding project
 
 ## Inhoudsopgave
-1. [Certificaten Datacamp] (#Certificaten Datacamp)
+1. [Certificaten Datacamp] (#Certificaten_Datacamp)
 2. Certificaten coursera
 3. Spark tutorials
 4. 
