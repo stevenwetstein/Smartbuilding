@@ -40,10 +40,16 @@ De certificaten zijn in de map [Certificaten Datacamp](https://github.com/steven
 * [Pandas foundations](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/pandas%20foundation.pdf)
 * [Statistical thinking in python](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/statistical%20thining%20in%20python.pdf)
 * [Supervised learning with scikit-learn](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Supervised%20learning%20with%20scikit-learn.pdf)
+* [Writing you own functions](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20datacamp/Chapter%20'writing%20your%20own%20functions'.png)
 
 ## 1.2 Certificaten Coursera <a name="Certificaten_Coursera"></a>
-De machine learning course heb ik deels doorlopen. Ik heb week 1, 2, 3 en 6 doorlopen zoals was aangegeven als de verplichte opdrachten.
-Ik heb bij coursera nog geen extra opdrachten uitgevoerd. Screenshots van mijn voortgang zijn te vinden in de map 'coursera'.
+Tijdens deze minor heb ik de verschillende onderdelen van coursera doorlopen. 
+De certificaten zijn in de map [Coursera](https://github.com/stevenwetstein/Smartbuilding/tree/master/Coursera) te vinden.
+
+* [Week 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%201.png)
+* [Week 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%202.png)
+* [Week 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%203.png)
+* [Week 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%206.png)
 
 ## 1.3 Spark tutorials <a name="Spark_tutorials"></a>
 
