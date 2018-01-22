@@ -23,6 +23,8 @@ Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbred
 3.3 [Verbredingsopdracht project](#Verbredingsopdracht_project)<br >
 3.4 [Afrondingsfase project](#Afrondingsfase_project)<br >
 
+---
+
 # 1. Kennis verbreden <a name="Kennis_verbreden"></a>
 
 ## 1.1 Certificaten Datacamp <a name="Certificaten_Datacamp"></a>
@@ -39,6 +41,8 @@ Ik heb bij coursera nog geen extra opdrachten uitgevoerd. Screenshots van mijn v
 ## 1.4 Exploratory data analysis <a name="Exploratory_data_analysis"></a>
 
 ## 1.5 Calling bullshit <a name="Calling_bullshit"></a>
+
+---
 
 # 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
@@ -57,6 +61,8 @@ https://www.youtube.com/watch?v=mgY_D_nsCDw&t=
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mgY_D_nsCDw&t=
 " target="_blank"><img src="http://img.youtube.com/vi/v=mgY_D_nsCDw/0.jpg" 
 alt="RAAK award 2020 promotiefilm" width="240" height="180" border="10" /></a>
+
+---
 
 # 3. Project <a name="Project"></a>
 
