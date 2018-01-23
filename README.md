@@ -12,7 +12,7 @@ Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbred
 1.5 [Calling bullshit](#Calling_bullshit)<br >
 
 ### 2. [Vertegenwoordigen project](#Vertegenwoordigen_project)
-2.1 [Vrijdag Presentaties](#Vrijdag_presentaties)<br >
+2.1 [Vrijdag presentaties](#Vrijdag_presentaties)<br >
 2.2 [Presentatie symposium](#Presentatie_Symposium)<br >
 2.3 [Gefilmd over project](#Gefilmd_over_project)<br >
 
@@ -83,7 +83,7 @@ Deze is in de map [Calling bullshit](https://github.com/stevenwetstein/Smartbuil
 # 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
 ## 2.1 Vrijdag presentaties <a name="Vrijdag_presentaties"></a>
-Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map [Presentaties vrijdag(https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag)
+Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map [Presentaties vrijdag](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag)
 
 * [Presentatie 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2009-22.pptx)
 * [Presentatie 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2010-27.pptx)
