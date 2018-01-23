@@ -83,7 +83,7 @@ Deze is in de map [Calling bullshit](https://github.com/stevenwetstein/Smartbuil
 # 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
 ## 2.1 Vrijdag presentaties <a name="Vrijdag_presentaties"></a>
-Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map [Presentaties vrijdag](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag)
+Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map [Presentaties vrijdag](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag).
 
 * [Presentatie 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2009-22.pptx)
 * [Presentatie 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2010-27.pptx)
@@ -91,14 +91,14 @@ Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze present
 
 ## 2.2 Presentatie symposium <a name="Presentatie_Symposium"></a>
 Gedurende dit blok hebben wij toegewerkt naar het smartbuilding symposium. Op dit evenement heb ik samen met Bob Tuynman en Jan Dirk Schagen gepresenteerd.
-Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding. De presentatie is te vinden in de map [Presentatie symposium](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentatie%20symposium)
+Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding. De presentatie is te vinden in de map [Presentatie symposium](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentatie%20symposium).
 
 * [Presentatie Symposium](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentatie%20symposium/symposium.pptx)
 
 ## 2.3 Gefilmd over project <a name="Gefilmd_over_project"></a>
 Tijdens ons project is er een film gemaakt voor de RAAK 2020 awards. Als projectteam waren wij onderdeel van het lectoraat waar deze prijs uiteindelijk naar ging.
 Samen met Bob Tuynman speel ik in de promotiefilm voor de RAAK awards. Het filmpje is hier te zien:
-https://www.youtube.com/watch?v=mgY_D_nsCDw&t=
+https://www.youtube.com/watch?v=mgY_D_nsCDw&t=.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mgY_D_nsCDw&t=
 " target="_blank"><img src="http://img.youtube.com/vi/v=mgY_D_nsCDw/0.jpg" 
