@@ -58,7 +58,7 @@ De markdown zijn in de map [Spark](https://github.com/stevenwetstein/Smartbuildi
 * [Opdracht 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Spark/assignment1.md)
 * [Opdracht 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Spark/assignment2.md)
 
-## 1.4 Exploratory data analysis <a name="Exploratory_data_analysis"></a>
+## 1.4 Exploratory data analysis <a name="Exploratory_Data_Analysis"></a>
 Tijdens deze minor heb ik de Exploratory Data Analysis opdrachten gemaakt. 
 De markdown zijn in de map [Exploratory Data Analysis](https://github.com/stevenwetstein/Smartbuilding/tree/master/Exploratory%20Data%20Science) te vinden.
 
@@ -89,7 +89,7 @@ Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze present
 * [Presentatie 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2010-27.pptx)
 * [Presentatie 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2012-15.pptx)
 
-## 2.2 Presentatie symposium <a name="Presentatie_symposium"></a>
+## 2.2 Presentatie symposium <a name="Presentatie_Symposium"></a>
 Gedurende dit blok hebben wij toegewerkt naar het smartbuilding symposium. Op dit evenement heb ik samen met Bob Tuynman en Jan Dirk Schagen gepresenteerd.
 Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding. De presentatie is te vinden in de map [Presentatie symposium](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentatie%20symposium)
 
