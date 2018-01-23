@@ -76,16 +76,24 @@ De markdown zijn in de map [Exploratory Data Analysis](https://github.com/steven
 Tijdens deze minor heb ik de Calling bullshit opdracht gemaakt. 
 Deze is in de map [Calling bullshit](https://github.com/stevenwetstein/Smartbuilding/tree/master/Calling%20bulshit) te vinden
 
+* [Calling Bullshit](https://github.com/stevenwetstein/Smartbuilding/blob/master/Calling%20bulshit/Calling%20bullshit%20v1.0.pdf)
+
 ---
 
 # 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
 ## 2.1 Vrijdag presentaties <a name="Vrijdag_presentaties"></a>
-Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map 'Presentaties vrijdag'
+Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map [Presentaties vrijdag(https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag)
+
+* [Presentatie 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2009-22.pptx)
+* [Presentatie 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2010-27.pptx)
+* [Presentatie 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2012-15.pptx)
 
 ## 2.2 Presentatie symposium <a name="Presentatie_symposium"></a>
 Gedurende dit blok hebben wij toegewerkt naar het smartbuilding symposium. Op dit evenement heb ik samen met Bob Tuynman en Jan Dirk Schagen gepresenteerd.
-Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding.
+Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding. De presentatie is te vinden in de map [Presentatie symposium](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentatie%20symposium)
+
+* [Presentatie Symposium](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentatie%20symposium/symposium.pptx)
 
 ## 2.3 Gefilmd over project <a name="Gefilmd_over_project"></a>
 Tijdens ons project is er een film gemaakt voor de RAAK 2020 awards. Als projectteam waren wij onderdeel van het lectoraat waar deze prijs uiteindelijk naar ging.
