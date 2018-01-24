@@ -40,7 +40,7 @@ De certificaten zijn in de map [Certificaten Datacamp](https://github.com/steven
 * [Pandas foundations](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20Datacamp/Pandas%20foundations.pdf)
 * [Statistical thinking in python](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20Datacamp/Statistical%20thinking%20in%20python.pdf)
 * [Supervised learning with scikit-learn](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20Datacamp/Supervised%20learning%20with%20scikit-learn.pdf)
-* [Writing you own functions](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20Datacamp/Chapter%20'writing%20you%20own%20functions'.pdf)
+* [Writing your own functions](https://github.com/stevenwetstein/Smartbuilding/blob/master/Certificaten%20Datacamp/Chapter%20'writing%20you%20own%20functions'.pdf)
 
 ## 1.2 Certificaten Coursera <a name="Certificaten_Coursera"></a>
 Tijdens deze minor heb ik de verschillende onderdelen van coursera doorlopen. 
@@ -100,9 +100,7 @@ Tijdens ons project is er een film gemaakt voor de RAAK 2020 awards. Als project
 Samen met Bob Tuynman speel ik in de promotiefilm voor de RAAK awards. Het filmpje is hier te zien:
 https://www.youtube.com/watch?v=mgY_D_nsCDw&t=.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mgY_D_nsCDw&t=
-" target="_blank"><img src="http://img.youtube.com/vi/v=mgY_D_nsCDw/0.jpg" 
-alt="RAAK award 2020 promotiefilm" width="240" height="180" border="10" /></a>
+* [![RAAK 2020 Award](http://img.youtube.com/vi/=mgY_D_nsCDw/0.jpg)](http://www.youtube.com/watch?v=mgY_D_nsCDw&t=)
 
 ---
 
