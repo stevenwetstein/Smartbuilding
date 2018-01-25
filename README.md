@@ -16,7 +16,7 @@ Deze minor is op te splitsen in drie onderdelen. De eerste is het kennis verbred
 2.2 [Presentatie symposium](#Presentatie_Symposium)<br >
 2.3 [Gefilmd over project](#Gefilmd_over_project)<br >
 
-### 3. [Project](#project)
+### 3. [Project](#Project)
 3.1 [Verkenningsfase project](#Verkenningsfase_project)<br >
 3.2 [Analysefase project](#Analysefase_project)<br >
 3.3 [Verbredingsopdracht project](#Verbredingsopdracht_project)<br >
@@ -114,7 +114,9 @@ Tijdens de verkenningsfase waren er een aantal onderdelen die moesten worden uit
 
 Onderdeel van dit opstartproces was de stakeholderanalyse. Er is gezamenlijk informatie gezocht over de verscheidene stakeholders. Waarna ik deze stakeholderanalyse heb uitgewerkt, het resultaat is 
  [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Stakeholders%20analyse.pdf) te vinden.
-Op dit punt hebben we als groep de scope, hoofd en deelvragen afgerond. We willen gaan beginnen met analyseren. Aangezien onze kennis van data science op dit punt nog minimaal is weten we niet waar te beginnen. De beslissing wordt gemaakt om de capaciteit van verschillende apps te onderzoeken. Ik heb Qlikview onderzocht door middel van tutorials te volgen. Voor onze bevindingen hadden we een standaardformat opgesteld. Het ingevulde format voor Qlikview is [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Qlikview.pdf) te vinden.<br  >
+Op dit punt hebben we als groep de scope, hoofd en deelvragen afgerond. We willen gaan beginnen met analyseren. Aangezien onze kennis van data science op dit punt nog minimaal is weten we niet waar te beginnen. De beslissing wordt gemaakt om de capaciteit van verschillende apps te onderzoeken. Ik heb Qlikview onderzocht door middel van tutorials te volgen. Voor onze bevindingen hadden we een standaardformat opgesteld. Het ingevulde format voor Qlikview is [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Qlikview.pdf) te vinden.
+<br  >
+<br  >
 Na de analyse van Qlikview merkte ik dat er weinig overzicht was in onze literatuur. Onze literatuur was verdeeld over meerdere platformen met eigenlijk geen idee wat er in een bepaalde paper stond. Ik ben begonnen met het inrichten van onze Mendeley. Hier stonden vanaf dit punt al onze bronnen.  [Hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Mendeley.docx.pdf) leg ik kort uit wat ik gedaan heb met betrekking tot Mendeley.
 
 
