@@ -48,8 +48,12 @@ De certificaten zijn in de map [Coursera](https://github.com/stevenwetstein/Smar
 
 * [Week 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%201.png)
 * [Week 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%202.png)
+  [Programmeeropdracht](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Matlab%20week%202.PNG)
 * [Week 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%203.png)
+  [Programmeeropdracht](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Matlab%20week%203.PNG)
 * [Week 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%206.png)
+  [Programmeeropdracht](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Matlab%20week%206.PNG)
+
 
 ## 1.3 Spark tutorials <a name="Spark_tutorials"></a>
 Tijdens deze minor heb ik de twee spark opdrachten gemaakt. 
