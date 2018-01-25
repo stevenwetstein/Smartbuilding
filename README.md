@@ -47,11 +47,11 @@ Tijdens deze minor heb ik de verschillende onderdelen van coursera doorlopen.
 De certificaten zijn in de map [Coursera](https://github.com/stevenwetstein/Smartbuilding/tree/master/Coursera) te vinden.
 
 * [Week 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%201.png)
-* [Week 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%202.png)
+* [Week 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%202.png)<br  >
   [Programmeeropdracht](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Matlab%20week%202.PNG)
-* [Week 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%203.png)
+* [Week 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%203.png)<br  >
   [Programmeeropdracht](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Matlab%20week%203.PNG)
-* [Week 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%206.png)
+* [Week 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Coursera%20week%206.png)<br  >
   [Programmeeropdracht](https://github.com/stevenwetstein/Smartbuilding/blob/master/Coursera/Matlab%20week%206.PNG)
 
 
