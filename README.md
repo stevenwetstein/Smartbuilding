@@ -123,16 +123,13 @@ Na de analyse van Qlikview merkte ik dat er weinig overzicht was in onze literat
 
 ## 3.2 Analysefase project <a name="Analysefase_project"></a>
 Voor de tweede fase van het project hebben we de groep in drien gedeeld. De groep waar ik onderdeel van was deed onderzoek naar het rule based system. De Saw applicatie waarmee we moesten gaan werken was defect. Dit was gelijk al een groot probleem. Na het proberen te repareren van de applicatie is er vast gesteld dat dit niet op korte termijn mogelijk was. Echter heeft het programma eerder wel gewerkt en waren hier nog outputs van beschikbaar. We hebben de overstap gemaakt naar het analyseren van deze bestaande data.
-Dit was het eerste punt waar ik mijn geleerde pythonkennis ging gebruiken. Als BIM student vond ik het leuk om met programmeren in aanraking te komen. Ik zal niet de snelste programmeur worden maar ik kan nu meepraten over code en zelf ook mijn mannetje staan. Verder in het portfolio komen complexere python kwaliteiten naar boven. 
+Dit was het eerste punt waar ik mijn geleerde pythonkennis ging gebruiken. Als BIM student vond ik het leuk om met programmeren in aanraking te komen. Ik zal niet de snelste programmeur worden maar ik kan nu meepraten over code en zelf ook mijn mannetje staan. 
 <br  >
 <br  >
 De data bestond uit een aantal lokalen met enkele sensoren. Ik ben mij hier gaan richten op het visualiseren van de data en specifiek anomalien. Hiervoor maakte ik verschillende grafieken om anomalien weer te geven. De code is gebruikt om meer dan 150 grafieken op te stellen voor verschillende lokalen en situaties. Ik heb in dit portfolio een paar grafieken opgenomen als indicatie. De code en grafieken zijn HIER te vinden.
 
 ## 3.3 Verbredingsopdracht project <a name="Verbredingsopdracht_project"></a>
-Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht die het gebouw ingezogen wordt. Hiervoor heb ik verschillende datasets gekregen. Deze datasets kwamen als volgt binnen:
-* DATA
-* DATA
-Om er makkelijk mee te werken heb ik data tot dit format getransformeerd:
+Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht die het gebouw ingezogen wordt. Hiervoor heb ik verschillende datasets gekregen. Om er makkelijk mee te werken heb ik data tot dit format getransformeerd:
 * DATA
 * DATA
 Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste zal ik hier behandelen. 
