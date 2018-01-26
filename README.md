@@ -140,14 +140,14 @@ Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht 
 Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. 
 
 Grafieken sensor 87 <br  >
-*[Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg)<br  >
-*[Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20plot%20verschil.PNG)<br  >
-*[Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Carpetplot%2087.jpg)<br  >
+* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg)<br  >
+* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20plot%20verschil.PNG)<br  >
+* [Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Carpetplot%2087.jpg)<br  >
 
 Grafieken sensor 94 <br  >
-*[Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20grafiek%20dagen.jpg)<br  >
-*[Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20plot%20verschil.PNG)<br  >
-*[Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Carpetplot%2094.jpg)<br  >
+* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20grafiek%20dagen.jpg)<br  >
+* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20plot%20verschil.PNG)<br  >
+* [Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Carpetplot%2094.jpg)<br  >
 
 De code van deze analyse is [hier](https://github.com/stevenwetstein/Smartbuilding/tree/master/Verbredingsfase%20project/Code) te vinden.
 
