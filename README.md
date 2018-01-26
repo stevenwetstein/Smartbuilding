@@ -126,10 +126,9 @@ Voor de tweede fase van het project hebben we de groep in drieën gedeeld. De gr
 Dit was het eerste punt waar ik mijn geleerde pythonkennis ging gebruiken. Als BIM student vond ik het leuk om met programmeren in aanraking te komen. Ik zal niet de snelste programmeur worden maar ik kan nu meepraten over code en zelf begin ik er ook beter in te worden.
 <br  >
 De data bestond uit een aantal lokalen met enkele sensoren. Ik ben mij hier gaan richten op het visualiseren van de data en specifiek anomalien. Hiervoor maakte ik verschillende grafieken om anomalien weer te geven. De code is gebruikt om meer dan 150 grafieken op te stellen voor verschillende lokalen en situaties. Ik heb in dit portfolio een paar grafieken opgenomen als indicatie. 
-* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Lijnplot%20CO2.PNG)<br  >
-Grafiek 1 geeft een werkende sensor weer.
-* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Lijnplot%20CO2%20anomalie.PNG)<br  >
-Grafiek 2 geeft een sensor weer die op meerdere punten kapot gaat.
+* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Lijnplot%20CO2.PNG) geeft een werkende sensor weer.<br  >
+
+* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Lijnplot%20CO2%20anomalie.PNG) geeft een sensor weer die op meerdere punten kapot gaat.<br  >
 * [Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Stripplot%20CO2.PNG)<br  >
 * [Grafiek 4](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Stripplot%20CO2%20.2.PNG)<br  >
 
@@ -137,6 +136,7 @@ Grafiek 2 geeft een sensor weer die op meerdere punten kapot gaat.
 Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht die het gebouw ingezogen wordt. Hiervoor heb ik twee verschillende datasets gekregen. Om er makkelijk mee te werken heb ik data tot dit format getransformeerd:<br  >
 * [Data sensor 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS2%20GRFMET%2087%20co2%20aanzuig.csv)<br  >
 * [Data sensor 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS3%20GRFMET%2094%20co2%20aanzuig.csv)<br  >
+
 Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. 
 
 Grafieken sensor 87 <br  >
