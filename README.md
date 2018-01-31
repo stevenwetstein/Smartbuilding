@@ -146,6 +146,8 @@ Dit subonderzoek werd met een aantal vragen gestart:
 
 Om de eerste vraag te kunnen beantwoorden ben ik gaan kijken of de CO2 waardes hoger zijn op het moment dat er veel verkeer is. Om dit te kunnen doen heb ik eerst de gemiddelde co2 waarde tijdens een dag gevisualiseerd. Dit bracht mij tot de volgende grafiek:
 ![Grafiek gemiddelde](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Gemiddelde%20dag.PNG "Grafiek gemiddelde")
+Hier is duidelijk te zien dat er tijdens de ochtendspits een verhoogd CO2 niveau is. Toen ben ik gaan nadenken naar andere momenten dat er een ander verkeerspatroon is, dit is in het weekend. Dus als de hypothese klopt zal er in het weekend door het verminderd verkeer een lager gemiddelde CO2 waarde zijn. Hiernaast zal de spits iets minder duidelijk zijn in het weekend. Om dit te doen heb ik elke dag gevisualiseerd:
+![Grafiek week](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week")
 
 Grafieken sensor 87 <br  >
 * [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg)<br  >
