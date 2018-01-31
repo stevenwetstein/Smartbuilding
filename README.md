@@ -171,7 +171,7 @@ Grafieken sensor 94 <br  >
 De code van deze analyse is [hier](https://github.com/stevenwetstein/Smartbuilding/tree/master/Verbredingsfase%20project/Code) te vinden.
 
 
-Ik vond deze odpracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken.
+Ik vond deze opdracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken.
 
 ## 3.4 Afrondingsfase project
 Tijdens de laatste weken heb ik samen met mijn groep het [onderzoeksverslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Afrondingsfase%20project/Onderzoeksverslag.pdf) en de [paper](https://github.com/stevenwetstein/Smartbuilding/blob/master/Afrondingsfase%20project/Paper.pdf) opgesteld. Dit is het uiteindelijke eindresultaat van ons project. 
