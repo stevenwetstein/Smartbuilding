@@ -137,7 +137,7 @@ Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht 
 * [Data sensor 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS2%20GRFMET%2087%20co2%20aanzuig.csv)<br  >
 * [Data sensor 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS3%20GRFMET%2094%20co2%20aanzuig.csv)<br  >
 
-Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. Voor meer uitleg dan in deze leeswijzer gegeven wordt betreft deze opdracht verwijs ik graag naar dit [verslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf). Om het aantal afbeeldingen in de leeswijzer niet te veel te maken heb ik hieronder alleen de grafieken van sensor 87 getoond. De grafieken van sensor 94 wordt naar verwijst.
+Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. Voor meer uitleg dan in deze leeswijzer gegeven wordt betreft deze opdracht verwijs ik graag naar dit [verslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf). Om het aantal afbeeldingen in de leeswijzer niet te veel te maken heb ik hieronder alleen de grafieken van sensor 87 getoond. De grafieken van sensor 94 wordt later naar verwezen.
 
 Dit subonderzoek werd met een aantal vragen gestart:
 * Heeft het verkeer invloed op de CO2 waarden buiten het gebouw?
