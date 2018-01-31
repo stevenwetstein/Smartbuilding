@@ -150,9 +150,9 @@ Hier is duidelijk te zien dat er tijdens de ochtendspits een verhoogd CO2 niveau
 ![Grafiek week 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week")
 Hier is duidelijk te zien dat er in het weekend een lager CO2 niveau is. Dit komt dus overeen met de hypothese die eerder gesteld is. Nu kan de aanname gedaan worden dat het verkeer invloed heeft op de naar binnen gezogen lucht.
 Deze aanname is belangrijk om de derde subvraag te beantwoorden. We weten namelijk dat aan de noordkant van het gebouw een weg ligt die de CO2 verhoogd. Het zou makkelijk zijn om dus te zeggen dat de sensor die een hogere gemiddelde CO2 waarde geeft aan de noordkant van het gebouw zit. Helaas is de calibratie ten opzichte van de absolute waarde bij CO2 sensoren niet heel accuraat en kunnen we hier dus geen conclusie uit trekken. Echter zal door de weg de CO2 waarde meer fluctueren dan bij een plek waar geen weg is. We kunnen dus kijken naar het verschil tussen de maximale waarde en de minimale waarde voor de 2 sensoren.<br  >
-Sensor 87:
+Sensor 87:<br  >
 ![Grafiek week 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week 87")
-Sensor 94:
+Sensor 94:<br  >
 ![Grafiek week 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20grafiek%20dagen.jpg "Grafiek week 94")
 Voor sensor 87 is te zien dat het verschil tussen het laagste en hoogste punt 50 CO2 (ppm) is. Wat betreft sensor 94 is het verschil tussen het laagste en hoogste punt 40 CO2 (ppm). Deze informatie geeft een indicatie dat sensor 87 aan de noordkant van het gebouw zit. Het is echter niet definitief zeker dat dit zo is. Op basis van de beschikbare data is dit ook niet te concluderen. Er is gecalibreerde CO2 data nodig om hier een definitief antwoord op te geven. 
 
