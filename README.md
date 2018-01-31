@@ -122,26 +122,41 @@ Na de analyse van Qlikview merkte ik dat er weinig overzicht was in onze literat
 
 
 ## 3.2 Analysefase project <a name="Analysefase_project"></a>
-Voor de tweede fase van het project hebben we de groep in drien gedeeld. De groep waar ik onderdeel van was deed onderzoek naar het rule based system. De Saw applicatie waarmee we moesten gaan werken was defect. Dit was gelijk al een groot probleem. Na het proberen te repareren van de applicatie is er vast gesteld dat dit niet op korte termijn mogelijk was. Echter heeft het programma eerder wel gewerkt en waren hier nog outputs van beschikbaar. We hebben de overstap gemaakt naar het analyseren van deze bestaande data.
-Dit was het eerste punt waar ik mijn geleerde pythonkennis ging gebruiken. Als BIM student vond ik het leuk om met programmeren in aanraking te komen. Ik zal niet de snelste programmeur worden maar ik kan nu meepraten over code en zelf ook mijn mannetje staan. 
+Voor de tweede fase van het project hebben we de groep in drieën gedeeld. De groep waar ik onderdeel van werd deed onderzoek naar het rule based system. De Saw applicatie waarmee we moesten gaan werken was defect. Dit was gelijk al een groot probleem. Na het proberen te repareren van de applicatie is er vast gesteld dat dit niet op korte termijn mogelijk was. Echter heeft het programma eerder wel gewerkt en waren hier nog outputs van beschikbaar. We hebben de overstap gemaakt naar het analyseren van deze bestaande data.
+Dit was het eerste punt waar ik mijn geleerde pythonkennis ging gebruiken. Als BIM student vond ik het leuk om met programmeren in aanraking te komen. Ik zal niet de snelste programmeur worden maar ik kan nu meepraten over code en zelf begin ik er ook beter in te worden.
 <br  >
-<br  >
-De data bestond uit een aantal lokalen met enkele sensoren. Ik ben mij hier gaan richten op het visualiseren van de data en specifiek anomalien. Hiervoor maakte ik verschillende grafieken om anomalien weer te geven. De code is gebruikt om meer dan 150 grafieken op te stellen voor verschillende lokalen en situaties. Ik heb in dit portfolio een paar grafieken opgenomen als indicatie. De code en grafieken zijn HIER te vinden.
+De data bestond uit een aantal lokalen met enkele sensoren. Ik ben mij hier gaan richten op het visualiseren van de data en specifiek anomalien. Hiervoor maakte ik verschillende grafieken om anomalien weer te geven. De code is gebruikt om meer dan 150 grafieken op te stellen voor verschillende lokalen en situaties. Ik heb in dit portfolio een paar grafieken opgenomen als indicatie. 
+* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Lijnplot%20CO2.PNG) geeft een werkende sensor weer.<br  >
+
+* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Lijnplot%20CO2%20anomalie.PNG) geeft een sensor weer die op meerdere punten kapot gaat.<br  >
+* [Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Stripplot%20CO2.PNG)<br  >
+* [Grafiek 4](https://github.com/stevenwetstein/Smartbuilding/blob/master/Analysefase%20project/Stripplot%20CO2%20.2.PNG)<br  >
 
 ## 3.3 Verbredingsopdracht project <a name="Verbredingsopdracht_project"></a>
-Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht die het gebouw ingezogen wordt. Hiervoor heb ik verschillende datasets gekregen. Om er makkelijk mee te werken heb ik data tot dit format getransformeerd:
-* DATA
-* DATA
-Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste zal ik hier behandelen. 
-De code van deze analyse is HIER te vinden.
-GRAFIEK
-GRAFIEK
+Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht die het gebouw ingezogen wordt. Hiervoor heb ik twee verschillende datasets gekregen. Om er makkelijk mee te werken heb ik data tot dit format getransformeerd:<br  >
+* [Data sensor 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS2%20GRFMET%2087%20co2%20aanzuig.csv)<br  >
+* [Data sensor 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS3%20GRFMET%2094%20co2%20aanzuig.csv)<br  >
 
-Voor deze opdracht heb ik nog een kort verslag geschreven. Deze is HIER te vinden.
+Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. 
 
-Ik vond deze odpracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken. 
+Grafieken sensor 87 <br  >
+* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg)<br  >
+* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20plot%20verschil.PNG)<br  >
+* [Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Carpetplot%2087.jpg)<br  >
 
+Grafieken sensor 94 <br  >
+* [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20grafiek%20dagen.jpg)<br  >
+* [Grafiek 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20plot%20verschil.PNG)<br  >
+* [Grafiek 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Carpetplot%2094.jpg)<br  >
 
+De code van deze analyse is [hier](https://github.com/stevenwetstein/Smartbuilding/tree/master/Verbredingsfase%20project/Code) te vinden.
+
+Voor deze opdracht heb ik nog een kort verslag geschreven. Deze is [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf) te vinden.
+
+Ik vond deze odpracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken.
+
+## 3.4 Afrondingsfase project
+Tijdens de laatste weken heb ik samen met mijn groep het [onderzoeksverslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Afrondingsfase%20project/Onderzoeksverslag.pdf) en de [paper](https://github.com/stevenwetstein/Smartbuilding/blob/master/Afrondingsfase%20project/Paper.pdf) opgesteld. Dit is het uiteindelijke eindresultaat van ons project. 
 
 
 
