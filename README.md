@@ -137,17 +137,21 @@ Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht 
 * [Data sensor 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS2%20GRFMET%2087%20co2%20aanzuig.csv)<br  >
 * [Data sensor 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS3%20GRFMET%2094%20co2%20aanzuig.csv)<br  >
 
-Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. Voor meer uitleg dan in deze leeswijzer gegeven wordt betreft deze opdracht verwijs ik graag naar dit [verslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf).
+Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. Voor meer uitleg dan in deze leeswijzer gegeven wordt betreft deze opdracht verwijs ik graag naar dit [verslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf). Om het aantal afbeeldingen in de leeswijzer niet te veel te maken heb ik hieronder alleen de grafieken van sensor 87 getoond. De grafieken van sensor 94 wordt naar verwijst.
 
 Dit subonderzoek werd met een aantal vragen gestart:
 * Heeft het verkeer invloed op de CO2 waarden buiten het gebouw?
 * Als dit het geval is hoe groot is deze impact?
 * Er is niet meer bekend welke sensor bij welke luchtschacht past, kan dit op basis van data teruggevonden worden?
 
-Om de eerste vraag te kunnen beantwoorden ben ik gaan kijken of de CO2 waardes hoger zijn op het moment dat er veel verkeer is. Om dit te kunnen doen heb ik eerst de gemiddelde co2 waarde tijdens een dag gevisualiseerd. Dit bracht mij tot de volgende grafiek:
-![Grafiek gemiddelde](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Gemiddelde%20dag.PNG "Grafiek gemiddelde")
-Hier is duidelijk te zien dat er tijdens de ochtendspits een verhoogd CO2 niveau is. Toen ben ik gaan nadenken naar andere momenten dat er een ander verkeerspatroon is, dit is in het weekend. Dus als de hypothese klopt zal er in het weekend door het verminderd verkeer een lager gemiddelde CO2 waarde zijn. Hiernaast zal de spits iets minder duidelijk zijn in het weekend. Om dit te doen heb ik elke dag gevisualiseerd:
-![Grafiek week](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week")
+Om de eerste en tweede vraag te kunnen beantwoorden ben ik gaan kijken of de CO2 waardes hoger zijn op het moment dat er veel verkeer is. Om dit te kunnen doen heb ik eerst de gemiddelde CO2 waarde tijdens een dag gevisualiseerd. Dit bracht mij tot de volgende grafiek:
+![Grafiek gemiddelde 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Gemiddelde%20dag.PNG "Grafiek gemiddelde")
+Hier is duidelijk te zien dat er tijdens de ochtendspits een verhoogd CO2 niveau is. Toen ben ik gaan nadenken naar andere momenten dat er een ander verkeerspatroon is, dit is in het weekend. Dus als de hypothese klopt zal er in het weekend door het verminderd verkeer een lagere CO2 waarde zijn. Om dit te doen heb ik elke dag gevisualiseerd:
+![Grafiek week 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week")
+Hier is duidelijk te zien dat er in het weekend een lager CO2 niveau is. Dit komt dus overeen met de hypothese die eerder gesteld is. Nu kan de aanname gedaan worden dat het verkeer invloed heeft op de naar binnen gezogen lucht.
+Deze aanname is belangrijk om de derde subvraag te beantwoorden. We weten namelijk dat aan de noordkant van het gebouw een weg ligt die de CO2 verhoogd. Het zou makkelijk zijn om dus te zeggen dat de sensor die een hogere gemiddelde CO2 waarde geeft aan de noordkant van het gebouw zit. Helaas is de calibratie ten opzichte van de absolute waarde bij CO2 sensoren niet heel accuraat en kunnen we hier dus geen conclusie uit trekken. Echter zal door de weg de CO2 waarde meer fluctueren dan bij een plek waar geen weg is. We kunnen dus kijken naar het verschil tussen de maximale waarde en de minimale waarde voor de 2 sensoren.
+![Grafiek week 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week 87")
+![Grafiek week 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week 94")
 
 Grafieken sensor 87 <br  >
 * [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg)<br  >
