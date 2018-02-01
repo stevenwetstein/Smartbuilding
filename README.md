@@ -137,7 +137,26 @@ Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht 
 * [Data sensor 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS2%20GRFMET%2087%20co2%20aanzuig.csv)<br  >
 * [Data sensor 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Ha_ho_de%20OS3%20GRFMET%2094%20co2%20aanzuig.csv)<br  >
 
-Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. 
+Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste hiervan heb ik opgenomen in dit portfolio. Voor meer uitleg dan in deze leeswijzer gegeven wordt betreft deze opdracht verwijs ik graag naar dit [verslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf). Om het aantal afbeeldingen in de leeswijzer niet te veel te maken heb ik hieronder alleen de grafieken van sensor 87 getoond. De grafieken van sensor 94 wordt later naar verwezen.
+
+Dit subonderzoek werd met een aantal vragen gestart:
+* Heeft het verkeer invloed op de CO2 waarden buiten het gebouw?
+* Als dit het geval is hoe groot is deze impact?
+* Er is niet meer bekend welke sensor bij welke luchtschacht past, kan dit op basis van data teruggevonden worden?
+
+Om de eerste en tweede vraag te kunnen beantwoorden ben ik gaan kijken of de CO2 waardes hoger zijn op het moment dat er veel verkeer is. Om dit te kunnen doen heb ik eerst de gemiddelde CO2 waarde tijdens een dag gevisualiseerd. Dit bracht mij tot de volgende grafiek:
+![Grafiek gemiddelde 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Gemiddelde%20dag.PNG "Grafiek gemiddelde")
+Hier is duidelijk te zien dat er tijdens de ochtendspits een verhoogd CO2 niveau is. Toen ben ik gaan nadenken naar andere momenten dat er een ander verkeerspatroon is, dit is in het weekend. Dus als de hypothese klopt zal er in het weekend door het verminderd verkeer een lagere CO2 waarde zijn. Om dit te doen heb ik elke dag gevisualiseerd:
+![Grafiek week 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week")
+Hier is duidelijk te zien dat er in het weekend een lager CO2 niveau is. Dit komt dus overeen met de hypothese die eerder gesteld is. Nu kan de aanname gedaan worden dat het verkeer invloed heeft op de naar binnen gezogen lucht.
+Deze aanname is belangrijk om de derde subvraag te beantwoorden. We weten namelijk dat aan de noordkant van het gebouw een weg ligt die de CO2 verhoogd. Het zou makkelijk zijn om dus te zeggen dat de sensor die een hogere gemiddelde CO2 waarde geeft aan de noordkant van het gebouw zit. Helaas is de calibratie ten opzichte van de absolute waarde bij CO2 sensoren niet heel accuraat en kunnen we hier dus geen conclusie uit trekken. Echter zal door de weg de CO2 waarde meer fluctueren dan bij een plek waar geen weg is. We kunnen dus kijken naar het verschil tussen de maximale waarde en de minimale waarde voor de 2 sensoren.<br  >
+Sensor 87:<br  >
+![Grafiek week 87](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg "Grafiek week 87")<br  >
+Sensor 94:<br  >
+![Grafiek week 94](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/94%20grafiek%20dagen.jpg "Grafiek week 94")<br  >
+Voor sensor 87 is te zien dat het verschil tussen het laagste en hoogste punt 50 CO2 (ppm) is. Wat betreft sensor 94 is het verschil tussen het laagste en hoogste punt 40 CO2 (ppm). Deze informatie geeft een indicatie dat sensor 87 aan de noordkant van het gebouw zit. Het is echter niet definitief zeker dat dit zo is. Op basis van de beschikbare data is dit ook niet te concluderen. Er is gecalibreerde CO2 data nodig om hier een definitief antwoord op te geven. 
+
+Tijdens dit onderzoek heb ik meerdere andere grafieken gemaakt om te kijken of hier bruikbare resultaten uitkwamen. Een aantal van deze grafieken heb ik hieronder bijgevoegd. 
 
 Grafieken sensor 87 <br  >
 * [Grafiek 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/87%20grafiek%20dagen.jpg)<br  >
@@ -151,9 +170,8 @@ Grafieken sensor 94 <br  >
 
 De code van deze analyse is [hier](https://github.com/stevenwetstein/Smartbuilding/tree/master/Verbredingsfase%20project/Code) te vinden.
 
-Voor deze opdracht heb ik nog een kort verslag geschreven. Deze is [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verbredingsfase%20project/Verslag%20extra%20opdracht.pdf) te vinden.
 
-Ik vond deze odpracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken.
+Ik vond deze opdracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken.
 
 ## 3.4 Afrondingsfase project
 Tijdens de laatste weken heb ik samen met mijn groep het [onderzoeksverslag](https://github.com/stevenwetstein/Smartbuilding/blob/master/Afrondingsfase%20project/Onderzoeksverslag.pdf) en de [paper](https://github.com/stevenwetstein/Smartbuilding/blob/master/Afrondingsfase%20project/Paper.pdf) opgesteld. Dit is het uiteindelijke eindresultaat van ons project. 
